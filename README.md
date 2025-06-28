@@ -120,4 +120,4 @@ Generative AI Consultant | Tech Adoption | Business Transformation
 ---
 
 > ✨ Ready to help companies turn hiring data into actionable intelligence.
-) | [Email](mailto:hopejohnson00@gmail.com)
+> | [Email](mailto:hopejohnson00@gmail.com)
