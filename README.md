@@ -60,3 +60,9 @@ Generative AI Consultant | Tech Adoption | Business Transformation
 [LinkedIn](https://www.linkedin.com/in/hopejohnson00) | [Email](mailto:hopejohnson00@gmail.com)
 
 ---
+<p align="center">
+  <img src="https://github.com/TheHopeBringer/ai-resume-matcher/raw/main/resume_matching_ai_image.png" width="600"/>
+</p>
+
+<p align="center"><i>AI-generated visualization of resume-to-job matching</i></p>
+
